@@ -1,2 +1,7 @@
-flask
+fastapi
+uvicorn
 openai
+jinja2
+httpx
+pydantic
+gunicorn
